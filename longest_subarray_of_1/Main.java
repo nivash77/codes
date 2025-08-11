@@ -34,3 +34,5 @@ public class Main {
         System.out.println(result);
     }
 }
+//Input: nums = [1,1,0,1,1,1]
+//Output: 5
